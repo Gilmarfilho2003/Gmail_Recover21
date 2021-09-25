@@ -87,3 +87,4 @@ for symbols in print_perms:
         print ("[!] Senha tem mais do que "  + qnt_digitos + ": %s") % symbols
 	
 	
+	
